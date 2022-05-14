@@ -1,6 +1,6 @@
 # Projet personnel sur JavaScript - Form Checker
 
-Le projet a été réalisé en parrallèle de ma formation de Openclassrooms, avec des cours d'apprentissage à JavaScript sur une plateforme de formation, de l'auteur From Scratch. Ce 3ème projet faisant partie du cours sur la data, qui m'a permis d'assimiler différentes notions comme : les différentes méthodes des données, les dates, le destructuring, les datasets et les regex.
+Le projet a été réalisé en parrallèle de ma formation de Openclassrooms, avec des cours d'apprentissage à JavaScript sur une plateforme de formation, de l'auteur From Scratch. Ce projet faisant partie du cours sur la data, qui m'a permis d'assimiler différentes notions comme : les différentes méthodes des données, les dates, le destructuring, les datasets et les regex.
 
 Ce projet est la création d'un formulaire de contact, avec une partie Pseudo, Email et mot de passe. 
 - Il est obligatoire d'avoir renseigné tous les champs du formulaire pour valider. 
